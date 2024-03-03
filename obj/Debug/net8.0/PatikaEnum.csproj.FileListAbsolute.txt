@@ -1,0 +1,14 @@
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\bin\Debug\net8.0\PatikaEnum.exe
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\bin\Debug\net8.0\PatikaEnum.deps.json
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\bin\Debug\net8.0\PatikaEnum.runtimeconfig.json
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\bin\Debug\net8.0\PatikaEnum.dll
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\bin\Debug\net8.0\PatikaEnum.pdb
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\obj\Debug\net8.0\PatikaEnum.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\obj\Debug\net8.0\PatikaEnum.AssemblyInfoInputs.cache
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\obj\Debug\net8.0\PatikaEnum.AssemblyInfo.cs
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\obj\Debug\net8.0\PatikaEnum.csproj.CoreCompileInputs.cache
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\obj\Debug\net8.0\PatikaEnum.dll
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\obj\Debug\net8.0\refint\PatikaEnum.dll
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\obj\Debug\net8.0\PatikaEnum.pdb
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\obj\Debug\net8.0\PatikaEnum.genruntimeconfig.cache
+c:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaEnum\obj\Debug\net8.0\ref\PatikaEnum.dll
